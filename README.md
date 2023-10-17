@@ -16,4 +16,4 @@ Member of:
 
 ## Skills
 
-[![Skills](https://skillicons.dev/icons?i=arduino,c,cpp,cs,css,html,java,jest,js,nodejs,py,ts,unity,vite)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=c,cpp,cs,css,html,java,js,nodejs,py,ts)](https://skillicons.dev)
