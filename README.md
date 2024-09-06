@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/7f3cfb5c-ab8b-4dca-97b3-b6147dcbf882)
-
 # Praneeth Rangarajan
 
 Student at Georgia State University, here's my [resume]()
