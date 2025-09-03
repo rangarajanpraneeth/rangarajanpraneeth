@@ -12,4 +12,4 @@ Student at Georgia State University
 
 ![Stats](https://skillicons.dev/icons?i=c,cpp,cs,css,html,java,js,nodejs,py,ts)
 
-![Stats](https://skillicons.dev/icons?i=js,html,css,wasm)
+![Stats](https://skillicons.dev/icons?i=c,cpp,cs,js,nodejs,py)
