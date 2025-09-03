@@ -2,7 +2,11 @@
 
 ## About Me
 
-I am student at Georgia State University, currently pursuing a bachelors degree in computer science. I am exploring fintech, real-time simulations, and algorithmic trading, focusing on automation.
+I am a student at Georgia State University, currently pursuing a Bachelor's degree in Computer Science. I am exploring fintech, real-time simulations, and algorithmic trading, with a focus on automation, data-driven insights, and interactive systems.
+
+My work combines data-driven problem solving with hands=on implementation, from algorithmic trading bots to interactive telemetry and motion control systems.
+
+I am a Computer Science student at Georgia State University, exploring fintech, real-time simulations, and algorithmic trading. I focus on automation, dashboard development, and open-source tools, combining data-driven problem solving with hands-on implementation. My projects range from algorithmic trading bots to interactive telemetry dashboards and motion control systems, reflecting a passion for building practical, high-performance solutions.
 
 ## Github Stats
 
