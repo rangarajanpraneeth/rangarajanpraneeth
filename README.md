@@ -1,6 +1,8 @@
 # Praneeth Rangarajan
 
-Student at Georgia State University, here's my [resume]()
+Student at Georgia State University
+
+![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHZyOG14emV0am4yd3V1YTBzenhyOWx6OGU3d2ZhN25xcjFocGltaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B4dt6rXq6nABilHTYM/giphy.gif)
 
 ## Github Stats
 
