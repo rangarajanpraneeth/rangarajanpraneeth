@@ -1,6 +1,8 @@
 # Praneeth Rangarajan
 
-Student at Georgia State University
+## About Me
+
+I am student at Georgia State University, currently pursuing a bachelors degree in computer science. I am exploring fintech, real-time simulations, and algorithmic trading, focusing on automation.
 
 ## Github Stats
 
