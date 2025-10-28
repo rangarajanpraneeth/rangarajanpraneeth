@@ -12,4 +12,4 @@ I am a student at Georgia State University, currently pursuing a Bachelor's degr
 
 ## Skills
 
-![Stats](https://skillicons.dev/icons?i=c,cpp,cs,js,nodejs,py)
+![Stats](https://skillicons.dev/icons?i=c,cpp,js,nodejs,py)
