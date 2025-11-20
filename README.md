@@ -7,9 +7,9 @@ I am a student at Georgia State University, currently pursuing a Bachelor's degr
 ## Connect
 LinkedIn: [linkedin.com/in/rangarajanpraneeth/](https://www.linkedin.com/in/rangarajanpraneeth/)
 
-LinkedIn: https://www.linkedin.com/in/rangarajanpraneeth/
+LinkedIn: linkedin.com/in/rangarajanpraneeth
 
-Website: [rangarajanpraneeth.github.io/](https://rangarajanpraneeth.github.io/)
+Website: rangarajanpraneeth.github.io
 
 ## Github Stats
 
