@@ -4,9 +4,7 @@
 
 I'm a Computer Science student at Georgia State University focused on building systems for algorithmic trading and real-time data visualization. I care about performance, clarity, and making things work at scale. Most of my work revolves around automation, market behavior, and interactive data systems. What I appreciate most is designing systems that create measurable, real-world impact.
 
-LinkedIn: [linkedin.com/in/rangarajanpraneeth](https://www.linkedin.com/in/rangarajanpraneeth/)
-
-Website: [rangarajanpraneeth.github.io](https://rangarajanpraneeth.github.io/)
+[LinkedIn](https://www.linkedin.com/in/rangarajanpraneeth/), [Resume](https://github.com/rangarajanpraneeth/resume/blob/main/one_page.pdf), [Website](https://rangarajanpraneeth.github.io/)
 
 ## Github Stats
 
