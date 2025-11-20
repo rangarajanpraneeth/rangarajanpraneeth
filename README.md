@@ -2,16 +2,26 @@
 
 ## About Me
 
-I'm a Computer Science student at Georgia State University, building systems at the intersection of fintech, real-time simulations, and algorithmic automation.
-I focus on creating software that reacts, adapts, and predicts - fast.
+I'm a Computer Science student at Georgia State University with a focus on building systems like algorithmic trading bots and real-time data visualization. I care about performance, clarity, and making things work at scale. Most of what I build revolves around automation, market behavior, and interactive computational systems. What I appreciate the most is designing systems that have a real impact in a way you can measure.
 
-## Interests
-- Algorithmic Trading & Market Microstructure
-- Performance-oriented Systems Porgramming
-- Reinforcement Learnign & Reward Engineering
+## My Projects
 
-## Connect
+### Algorithmic Trading Framework
+A practical trading engine built around price-action based signal generation, market structure and liquidity analysis, and adaptive execution logic that reacts to momentum and pressure.
+
+Features include modular candle and volume analytics, structural break detection and liquidity sweep mapping, live risk metrics, and a bespoke backtesting framework.
+
+### Sim Racing Telemetry Dashboard
+A real-time pipeling for ACC that handles high-frequency data acquisition, custom parsing and state tracking, and low-latency rendering of important metrics.
+
+Features include live pace and consistency analysis, braking and throttle behavior mapping, sector deltas, timing breakdowns, and driver inputs, and dashboard components designed for clarity.
+
+## My Interests
+
+## Connect With Me
+
 LinkedIn: [linkedin.com/in/rangarajanpraneeth](https://www.linkedin.com/in/rangarajanpraneeth/)
+
 Website: [rangarajanpraneeth.github.io](https://rangarajanpraneeth.github.io/)
 
 ## Github Stats
