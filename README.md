@@ -5,9 +5,9 @@
 I am a student at Georgia State University, currently pursuing a Bachelor's degree in Computer Science. I am exploring fintech, real-time simulations, and algorithmic trading, with a focus on automation, data-driven insights, and interactive systems.
 
 ## Connect
-LinkedIn: [LinkedIn](https://www.linkedin.com/in/rangarajanpraneeth/)
+LinkedIn: [linkedin.com/in/rangarajanpraneeth/](https://www.linkedin.com/in/rangarajanpraneeth/)
 
-Website: [Website](https://rangarajanpraneeth.github.io/)
+Website: [rangarajanpraneeth.github.io/](https://rangarajanpraneeth.github.io/)
 
 ## Github Stats
 
