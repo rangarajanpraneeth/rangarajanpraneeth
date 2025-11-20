@@ -7,14 +7,14 @@ I'm a Computer Science student at Georgia State University with a focus on build
 ## My Projects
 
 ### Algorithmic Trading Framework
-A practical trading engine built around price-action based signal generation, market structure and liquidity analysis, and adaptive execution logic that reacts to momentum and pressure.
+A practical trading engine built around price-action-based signal generation, market structure and liquidity analysis, and adaptive execution logic that reacts to momentum and pressure.
 
-Features include modular candle and volume analytics, structural break detection and liquidity sweep mapping, live risk metrics, and a bespoke backtesting framework.
+Features include modular candle and volume analytics, structural break detection, liquidity sweep mapping, live risk metrics, and a bespoke backtesting framework.
 
 ### Sim Racing Telemetry Dashboard
-A real-time pipeling for ACC that handles high-frequency data acquisition, custom parsing and state tracking, and low-latency rendering of important metrics.
+A real-time pipeline for ACC that handles high-frequency data acquisition, custom parsing and state tracking, and low-latency rendering of key performance metrics.
 
-Features include live pace and consistency analysis, braking and throttle behavior mapping, sector deltas, timing breakdowns, and driver inputs, and dashboard components designed for clarity.
+Features include live pace and consistency analysis, braking and throttle behavior mapping, sector deltas, timing breakdowns, driver input tracking, and dashboard components designed for clarity.
 
 ## My Interests
 
