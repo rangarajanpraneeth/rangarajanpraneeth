@@ -1,4 +1,4 @@
-![meme](cpp_v_js.gif)
+<!--![meme](cpp_v_js.gif)-->
 
 # Welcome to my GitHub!
 
@@ -7,4 +7,4 @@ Interested in algorithmic trading, systems programming, data science, and AI/ML.
 
 Here is my [resume](https://github.com/rangarajanpraneeth/resume/blob/main/resume.pdf).
 
-![](https://skillicons.dev/icons?i=c,cpp,cs,js,nodejs,py,ts)
+<!--![](https://skillicons.dev/icons?i=c,cpp,cs,js,nodejs,py,ts)-->
